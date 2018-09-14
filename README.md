@@ -24,3 +24,21 @@ this repository made for saving my needed classed or components which I may use 
          result will be like this:
                 "some texts and the link is [https://github.com/mehran75/javafx-accessories]"
          which can be use for HyperLinkLabel component
+
+
+
+# VoiceRecorder.java
+
+    Record Mp3 Sound
+    
+    libraries:
+        1. mp3agic
+        maven :
+         <dependency>
+            <groupId>com.mpatric</groupId>
+            <artifactId>mp3agic</artifactId>
+            <version>0.9.1</version>
+        </dependency>
+        
+        2. jave-1.0.2.jar
+            jar file exists in this repo
